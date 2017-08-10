@@ -3,7 +3,7 @@ This is a movie trailer website that store a list of my favorite movies.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You can *[clone](https://github.com/arrickx/Movie-Trailer-Website.git)* or *[download](https://github.com/arrickx/Movie-Trailer-Website.git)* a computer to your local computer.
 
 ### Prerequisites
 
@@ -16,10 +16,10 @@ Open and Run the **entertainment_center.py** file
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-* **fresh_tomatoes.py** was provided by udacity
+* **fresh_tomatoes.py** was provided by [udacity](https://github.com/arrickx/ud036_StarterCode.git)
 
 
