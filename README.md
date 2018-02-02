@@ -1,6 +1,6 @@
 # Movie Trailer Website
 * This is a movie trailer website that store a list of my favorite movies.
-> [![Image](img/trailer.gif)](Image)
+> [![Image](pic/trailer.gif)](Image)
 
 ## Getting Started
 
